@@ -1,1 +1,5 @@
-# MT4-Indicator-HVF-Draw-Tool-
+# HVF Draw Tool
+
+  - Increase your speed
+  - Increase your precision
+  - Adjust dynamically
